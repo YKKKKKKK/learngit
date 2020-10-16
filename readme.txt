@@ -4,3 +4,5 @@ Git is a distributed version control system.
 Git is free software.
 hahhahah
 xiugai
+git is free software distributed user the GPL
+
