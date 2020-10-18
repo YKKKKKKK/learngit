@@ -4,3 +4,5 @@ i am a boy
 Git tracks changes of files
 insert 1
 insert 2
+Creating a new branch is quick.
+
