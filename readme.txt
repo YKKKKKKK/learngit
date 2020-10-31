@@ -6,3 +6,5 @@ insert 1
 insert 2
 Creating a new branch is quick. 
 Switched to a new branch 'dev'
+
+this is my text by GitUI  10.31
